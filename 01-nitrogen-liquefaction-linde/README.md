@@ -14,9 +14,7 @@ Linde cycle implemented in DWSIM 9.0.
 - Gas-Liquid separation
 - Liquid yield: ~917.6 kg/h from 1,000 kg/h feed
 
-## Flowsheet
 ![Flowsheet](flowsheet_screenshot.png)
-
 ## Key Results
 | Stream | Temp (K) | Pressure (atm) | Mass Flow (kg/h) |
 |---|---|---|---|
